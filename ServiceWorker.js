@@ -1,9 +1,9 @@
 const cacheName = "X-VR-Estidama Scavenger-Hunt-1.0";
 const contentToCache = [
-    "Build/04.loader.js",
-    "Build/04.framework.js.unityweb",
-    "Build/04.data.unityweb",
-    "Build/04.wasm.unityweb",
+    "Build/05.loader.js",
+    "Build/05.framework.js.unityweb",
+    "Build/05.data.unityweb",
+    "Build/05.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
