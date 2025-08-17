@@ -1,9 +1,9 @@
 const cacheName = "X-VR-Estidama Scavenger-Hunt-1.0";
 const contentToCache = [
-    "Build/MeetNasser.loader.js",
-    "Build/MeetNasser.framework.js.unityweb",
-    "Build/MeetNasser.data.unityweb",
-    "Build/MeetNasser.wasm.unityweb",
+    "Build/MeetNasser08.loader.js",
+    "Build/MeetNasser08.framework.js.unityweb",
+    "Build/MeetNasser08.data.unityweb",
+    "Build/MeetNasser08.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
